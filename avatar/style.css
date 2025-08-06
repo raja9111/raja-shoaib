@@ -1377,6 +1377,7 @@ footer {
 }
 
 .two-words {
+    padding-top: 20px ;
     color: #b3b3b3;
     width: 100%;
     display: flex;
